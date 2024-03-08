@@ -1,3 +1,7 @@
 body{
     background-color:rosybrown;
 }
+.bg {
+    color: black;
+    background-color: aqua;
+}

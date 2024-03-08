@@ -1,3 +1,14 @@
 body{
     background-color:rosybrown;
 }
+.merge{
+    text-align: center;
+}
+#userName{
+    display: block;
+}
+#submit{
+    display: block;
+    background-color: blue;
+    color: white;
+}

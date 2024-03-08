@@ -1,2 +1,2 @@
 console.log("Merge Exercise");
-alert("merge exercise");
+alert("merge exercises");

@@ -1,7 +1,21 @@
 body{
     background-color:rosybrown;
 }
+
+
 .bg {
     color: black;
     background-color: aqua;
+
+
+
+.merge{
+    text-align: center;
 }
+#userName{
+    display: block;
+}
+#submit{
+    display: block;
+    background-color: blue;
+  color: white;}

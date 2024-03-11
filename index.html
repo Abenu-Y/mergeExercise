@@ -15,9 +15,17 @@
     <h3>Group 4 class improvement comment form</h3>
     </P>
     <form id="myForm">
-        <input id="userName" type="text" name="fname" placeholder="Please enter your full name ">
+        <label for="userName">Name:
+        <input id="userName" type="text" name="fname" placeholder="Please enter your full name "> </label>
         <br>
-        <input id="userEmail" type="text" name="email" placeholder="please enter your email ">
+        <label for="email"> Email:
+            <br>
+        <input id="userEmail" type="text" name="email" placeholder="please enter your email "></label>
+        <br>
+        <br>
+        <label for="new-password">Create a New Password:
+            <br>
+            <input id="new-password" type="password" required /></label>
         <br><br>
         <textarea id="userComment" rows="4" cols="50" name="comment"
             placeholder="if you have any suggestion, comment and query "></textarea>
